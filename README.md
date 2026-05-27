@@ -8,14 +8,34 @@ IMPORTANTE: Assim como informado anteriormente, capriche na etapa pois você vai
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Vinicius Eduardo de Souza Matos Silva
+- Matricula: 911693
 
-## Prints do trabalho
+## Endpoint utilizado
+/movie/popular
 
-<<  COLOQUE A IMAGEM - TELA DE CARDS DE PRODUTOS - AQUI >>
+Também foi utilizado:
+/search/movie para a pesquisa de filmes.
 
-<<  COLOQUE A IMAGEM - TELA DE DETALHE DO PRODUTO - AQUI >>
+## Descrição do projeto
 
-<<  COLOQUE A IMAGEM - TELA DO CONSOLE - AQUI >>
+O projeto utiliza a API do The Movie DB (TMDB) para buscar e exibir filmes populares em cards. A aplicação faz uma requisição utilizando Fetch API, trata os dados recebidos em JSON e renderiza dinamicamente os filmes na tela. Também foi implementada uma funcionalidade de pesquisa por nome de filme.
 
+## Funcionalidades
+
+- Listagem de filmes populares
+- Pesquisa por nome
+- Exibição de poster
+- Nota média
+- Ano de lançamento
+- Sinopse resumida
+- Mensagem de erro/vazio
+
+## Prints da aplicação
+
+Adicione aqui:
+
+- Print da lista de filmes
+![alt text](public\img\lista.png)
+- Print da pesquisa funcionando
+![alt text](public\img\pesquisa.png)
